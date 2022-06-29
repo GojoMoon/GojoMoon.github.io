@@ -1,1 +1,1 @@
-alert('Hi Mother F$ck')
+alert('Hi Mother F*ck')
