@@ -1,0 +1,20 @@
+section.post img {
+  width: 100%;
+}
+
+section.post a {
+  color: #a67c99;
+  text-decoration: none;
+}
+
+section.post a:hover {
+  color: #ffbcea;
+  text-decoration: bold;
+}
+
+.banner-padding {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 5%;
+}
