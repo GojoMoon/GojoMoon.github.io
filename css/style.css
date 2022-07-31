@@ -3,12 +3,12 @@ section.post img {
 }
 
 section.post a {
-  color: #a67c99;
+  color: #235077;
   text-decoration: none;
 }
 
 section.post a:hover {
-  color: #ffbcea;
+  color: #a67c99;
   text-decoration: bold;
 }
 
